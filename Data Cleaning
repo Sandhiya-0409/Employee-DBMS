@@ -1,4 +1,5 @@
-```CREATE DATABASE hr_project;
+```sql
+CREATE DATABASE hr_project;
 
 use hr_project;
 
@@ -58,3 +59,4 @@ SELECT COUNT(*)
 FROM hr
 WHERE termdate = '0000-00-00';
 
+```
